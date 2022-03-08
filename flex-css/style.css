@@ -1,0 +1,18 @@
+.parent{
+    background-color: rgb(198, 156,109);
+    height: 200px;
+    width: 200px;
+  }
+
+.child{
+    background-color:rgb(193 ,34,45); 
+    height: 50px;
+    width: 50px;
+   }
+
+.parent{
+  display: flex;
+  justify-content:center;
+  align-items: flex-end;
+ 
+}
